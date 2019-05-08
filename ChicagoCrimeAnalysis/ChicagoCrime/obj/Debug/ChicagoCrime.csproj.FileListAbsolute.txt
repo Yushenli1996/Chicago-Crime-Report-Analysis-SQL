@@ -1,0 +1,10 @@
+C:\Users\Yushen Li\Desktop\project07-files\ChicagoCrimeAnalysis\ChicagoCrime\bin\Debug\ChicagoCrime.exe.config
+C:\Users\Yushen Li\Desktop\project07-files\ChicagoCrimeAnalysis\ChicagoCrime\bin\Debug\ChicagoCrime.exe
+C:\Users\Yushen Li\Desktop\project07-files\ChicagoCrimeAnalysis\ChicagoCrime\bin\Debug\ChicagoCrime.pdb
+C:\Users\Yushen Li\Desktop\project07-files\ChicagoCrimeAnalysis\ChicagoCrime\obj\Debug\ChicagoCrime.Form1.resources
+C:\Users\Yushen Li\Desktop\project07-files\ChicagoCrimeAnalysis\ChicagoCrime\obj\Debug\ChicagoCrime.Properties.Resources.resources
+C:\Users\Yushen Li\Desktop\project07-files\ChicagoCrimeAnalysis\ChicagoCrime\obj\Debug\ChicagoCrime.csproj.GenerateResource.cache
+C:\Users\Yushen Li\Desktop\project07-files\ChicagoCrimeAnalysis\ChicagoCrime\obj\Debug\ChicagoCrime.csproj.CoreCompileInputs.cache
+C:\Users\Yushen Li\Desktop\project07-files\ChicagoCrimeAnalysis\ChicagoCrime\obj\Debug\ChicagoCrime.exe
+C:\Users\Yushen Li\Desktop\project07-files\ChicagoCrimeAnalysis\ChicagoCrime\obj\Debug\ChicagoCrime.pdb
+C:\Users\Yushen Li\Desktop\project07-files\ChicagoCrimeAnalysis\ChicagoCrime\obj\Debug\ChicagoCrime.csprojResolveAssemblyReference.cache
